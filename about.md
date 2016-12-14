@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey! I'm Anish. I love Pokémon and Doctor Who. I also like reading, and playing Terraria and generally on some form of tech. I also love technology and IT in school.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Yeah not much to say, really. I play Pokémon basically every day and I am a serious nerd, geek, etc.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[anish6452@gmail.com](mailto:anish6452@gmail.com)
