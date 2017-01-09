@@ -22,7 +22,7 @@ published: true
     <td>Halfway through the analog section.</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To finish the analog bit.</td>
   </tr>
   <tr>
