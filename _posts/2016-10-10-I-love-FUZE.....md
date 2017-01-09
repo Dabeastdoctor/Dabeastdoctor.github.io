@@ -8,8 +8,8 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <th>I love FUZE….</th>
+    <th>Title</th>
+    <td>I love FUZE….</td>
     <th>Date</th>
     <td>10/10/16</td>
   </tr>
