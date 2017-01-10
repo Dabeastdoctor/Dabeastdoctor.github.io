@@ -310,6 +310,24 @@ th {
     color: $black;
 }
 
+#rcorners1, td {
+    border-radius: 25px;
+    background: #42c2f4;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+#rcorners1, th {
+    border-radius: 25px;
+    background: #f47442;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
+
+
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
