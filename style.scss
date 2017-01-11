@@ -283,12 +283,10 @@ footer {
   text-align: center;
 }
 
-table, th, td {
-   border: 1px solid black;
-}
-
 table {
     border-collapse: collapse;
+	 box-shadow: 10px 10px 5px grey;
+	Width:100%;
 }
 
 table, th, td {
@@ -303,17 +301,17 @@ th, td {
 td {
     background-color: #42c2f4;
     color: $black;
-    width: 100%
+    
 }
 
 th {
     background-color: #f47442;
     color: $black;
-    width: 100%;
+   
 }
 
 table {
-    box-shadow: 10px 10px 5px grey;
+   
 }
 
 
