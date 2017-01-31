@@ -2,7 +2,7 @@
 title: White Card?
 layout: post
 author: anish.vaddiraju
-permalink: /white-card?/
+permalink: /white-card/
 source-id: 1gRjHoD_prL91C2RUyRGTbcV7hfKArdvQqxmJIIgVaeQ
 published: true
 ---
