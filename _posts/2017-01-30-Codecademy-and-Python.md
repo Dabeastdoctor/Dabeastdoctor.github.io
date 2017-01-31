@@ -2,7 +2,7 @@
 title: Codecademy, and Python.
 layout: post
 author: anish.vaddiraju
-permalink: /codecademy,-and-python./
+permalink: /codecademy-and-python/
 source-id: 14BZOuLLeYoIvoJ458Cv6ZG0rM0TB-ckPlztzY8pr1Yo
 published: true
 ---
