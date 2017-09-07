@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hey! I'm Anish. I love Pokémon and Doctor Who. I also like reading, and playing Terraria and generally on some form of tech. I also love technology and IT in school.
+Hey! I'm Anish. I love Doctor Who and the Percy Jackson series of books, (including the Heroes of Oympus). I obviously like reading, playing Pac Man and generally on some form of tech. I also love technology, IT, Maths, English and Graphics in school.
 
 ### More Information
 
-Yeah not much to say, really. I play Pokémon basically every day and I am a serious nerd, geek, etc.
+Yeah not much to say, really. Anyways, why are you busy reading about my life and my hobbys? Get on with reading my blog posts! :)
+
 
 
 ### Contact me
 
 [anish6452@gmail.com](mailto:anish6452@gmail.com)
+[avaddiraju@hotmail.com](mailto:avaddiraju@hotmail.com)
