@@ -6,7 +6,7 @@
 name: Anish's Blog!
 
 # Short bio or description (displayed in the header)
-description: Only the best blog in existance, probabaly....
+description: A random blog about my weekly adventures in my IT lessons
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://i.imgur.com/f21JG84.jpg
@@ -18,7 +18,7 @@ avatar: http://i.imgur.com/f21JG84.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: anish6452@gmail.com
+  email: avaddiraju@hotmail.com
   facebook:
   flickr:
   github: dabeastdoctor/dabeastdoctor.github.io
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://m.youtube.com/channel/UCQJu0oBCU67LKfFrq7HqUpQ
+  youtube: 
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
