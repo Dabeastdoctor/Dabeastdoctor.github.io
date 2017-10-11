@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey! I'm Anish. I love Doctor Who and the Percy Jackson series of books, (including the Heroes of Olympus). I obviously like reading, playing Pac Man and generally on some form of tech. I also love technology, IT, Maths, English and Graphics in school.
+Hey! I'm Anish. I love Doctor Who and the Percy Jackson series of books, (including the Heroes of Olympus). I obviously like reading, playing Pac Man and generally on some form of tech. I also love technology, IT, Maths, English and Graphics in school. But yeah. 
 
 ### More Information
 
