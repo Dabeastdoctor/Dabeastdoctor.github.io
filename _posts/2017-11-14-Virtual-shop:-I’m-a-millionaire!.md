@@ -1,5 +1,5 @@
 ---
-title: Virtual shop: I’m a millionaire!
+title: I’m a millionaire!
 layout: post
 author: anish.vaddiraju
 permalink: /virtual-shop:-i’m-a-millionaire!/
