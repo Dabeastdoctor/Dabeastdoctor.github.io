@@ -46,5 +46,5 @@ These questions will be:
 
 Well here's the code:
 
-<iframe height="400px" width="100%" src="https://repl.it/@anishvaddiraju/Buzzfeed-Quiz?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="500px" width="150%" src="https://repl.it/@anishvaddiraju/Buzzfeed-Quiz?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
